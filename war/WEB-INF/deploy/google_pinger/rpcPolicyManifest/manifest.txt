@@ -1,0 +1,2 @@
+# Module google_pinger
+# RPC service class, partial path of RPC policy file
